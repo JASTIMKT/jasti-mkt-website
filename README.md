@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -26,9 +26,9 @@
     <section id="galeria" class="p-10">
         <h2 class="text-xl font-bold text-center mb-4">MKT</h2>
         <div class="grid md:grid-cols-3 gap-6">
-            <img src="https://via.placeholder.com/300" alt="Proyecto 3D 1" class="w-full rounded-lg shadow-md">
-            <img src="https://via.placeholder.com/300" alt="Proyecto 3D 2" class="w-full rounded-lg shadow-md">
-            <img src="https://via.placeholder.com/300" alt="Proyecto 3D 3" class="w-full rounded-lg shadow-md">
+            <img src="C:\Users\braya\OneDrive\Escritorio\jpg pagina web\mkt 2.jpg" alt="Proyecto 3D 1" class="w-full rounded-lg shadow-md">
+            <img src="C:\Users\braya\OneDrive\Escritorio\jpg pagina web\mkt 3 pr.jpg" alt="Proyecto 3D 2" class="w-full rounded-lg shadow-md">
+            <img src="C:\Users\braya\OneDrive\Escritorio\jpg pagina web\mkt1.jpg" alt="Proyecto 3D 3" class="w-full rounded-lg shadow-md">
         </div>
     </section>
 
@@ -36,18 +36,17 @@
         <h2 class="text-xl font-bold text-center mb-4">Nuestros Servicios</h2>
         <div class="grid md:grid-cols-2 gap-6">
             <div class="bg-white p-6 rounded-lg shadow-md flex flex-col items-center">
-                <img src="https://via.placeholder.com/300" alt="Marketing Digital" class="w-48 h-48 mb-4 rounded">
+                <img src="https://th.bing.com/th/id/OIP.Gea-_JbROQPne_Et6RYqcQHaE8?w=567&h=378&rs=1&pid=ImgDetMain" alt="Marketing Digital" class="w-48 h-48 mb-4 rounded">
                 <h3 class="text-lg font-semibold">Marketing Digital</h3>
                 <p class="text-center">SEO, publicidad en redes sociales, email marketing y estrategias de contenido.</p>
             </div>
             <div class="bg-white p-6 rounded-lg shadow-md flex flex-col items-center">
-                <img src="https://via.placeholder.com/300" alt="Desarrollo Web" class="w-48 h-48 mb-4 rounded">
+                <img src="https://www.herzing.edu/sites/default/files/styles/fp_960_480/public/2020-09/how-to-become-software-engineer.jpg.webp?itok=uuamJN8l" alt="Desarrollo Web" class="w-48 h-48 mb-4 rounded">
                 <h3 class="text-lg font-semibold">Desarrollo Web</h3>
                 <p class="text-center">Creación de páginas web modernas, diseño responsivo y optimización de velocidad.</p>
             </div>
         </div>
-    </section>
-
+    
     <section id="nosotros" class="bg-gray-200 p-10">
         <h2 class="text-xl font-bold text-center mb-4">Sobre Nosotros</h2>
         <p class="text-center">Somos un equipo apasionado por la tecnología y el marketing, ofreciendo soluciones efectivas para negocios.</p>
